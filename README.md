@@ -1,2 +1,2 @@
-# Javascript---Desafio-1
+# Javascript-Desafio-1
 Calculando el total
