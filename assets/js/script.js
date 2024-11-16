@@ -9,6 +9,7 @@ let cantidadSpan = document.querySelector(".cantidad");
 let totalSpan = document.querySelector(".valor-total");
 let precioSpan = document.querySelector(".precio-inicial");
 
+
 totalSpan.innerHTML = total;
 precioSpan.innerHTML = precio;
 
